@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on Tata Concultancy services.
-👋 Hi, I’m @Uday-K-Dasari
+- 👋 Hi, I’m @Uday-K-Dasari
 - 👀 I’m interested in Web devolopment and data science.
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
