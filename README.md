@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Uday-K-Dasari
+- 👋 Hi, I’m Uday Kumar Dasari
 - I am Currently pursuing master's in computer science at the Unversity of South Dakota
-- 🔭 Previously worked as a Python developer in Tata Concultancy services.
-- 👀 I’m interested in Web data science and Machine Learning.
+- 🔭 Previously worked as a Java full-stack developer in Tata Concultancy services.
+- 👀 I’m interested in Web Devolopement and Data science.
 - 🌱 I’m currently learning data science
 - 📫 How to reach me dasariudaykumarswami@gmail.com
 
