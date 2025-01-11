@@ -1,11 +1,17 @@
-- 👋 Hi, I’m Uday Kumar Dasari
-- I am Currently pursuing master's in computer science at the Unversity of South Dakota
-- 🔭 Previously worked as a Java full-stack developer in Tata Concultancy services.
-- 👀 I’m interested in Web Devolopement and Data science.
-- 🌱 I’m currently learning data science
-- 📫 How to reach me dasariudaykumarswami@gmail.com
+Project Description
+This project implements a NUMA (Non-Uniform Memory Access) Simulator using Java to model and analyze the behavior of memory access patterns in multiprocessor systems. The simulator enables the simulation of various NUMA configurations, helping researchers and engineers evaluate system performance, memory locality, and load balancing strategies. The core functionalities include simulating memory access latencies, node communication, and resource management in NUMA architectures.
 
-<!---
-Uday-K-Dasari/Uday-K-Dasari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Features
+---NUMA Modeling: Simulate NUMA memory configurations (e.g., multi-node, local and remote memory access).
+---Memory Access Simulation: Analyze memory access times based on node locality and remote access.
+---Load Balancing: Evaluate thread and task distribution across NUMA nodes.
+---Performance Metrics: Collect and visualize performance metrics such as latency, throughput, and node utilization.
+
+Technologies Used
+-Language: Java
+-Libraries/Tools:
+                Core Java for simulation
+                JUnit for testing
+                Optional: Visualization tools (e.g., Graph plotting libraries)
+
